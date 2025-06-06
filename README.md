@@ -1,7 +1,7 @@
 # Exergy-Genesis
 Conceptional Theory Model for the exergy genesis project
 
-# Theorie einer Hyper-Effizienten Mini-Welt zur Energieerzeugung und Entropie-Kompensation
+# Theorie einer Hyper-Effizienten Mini-Welt aka Exergy Genesis zur Energieerzeugung und Entropie-Kompensation
 
 **Autor:** [Jonas Gries/Nova Dev Team]
 **Datum:** 7. Juni 2025
@@ -15,9 +15,8 @@ Diese Abhandlung stellt eine neuartige theoretische Konzeption einer "Mini-Welt"
 
 ---
 
-## 2. Das Konzept der Mini-Welt
-
-Die Mini-Welt ist definiert als ein diskretes, abgeschlossenes System, das innerhalb unserer bekannten dreidimensionalen Realität existiert, jedoch potenziell durch zusätzliche Dimensionen oder unbekannte physikalische Prinzipien abgegrenzt sein könnte. Sie ist nicht bloß ein Gerät, sondern ein autonomes **Unter-Universum** mit eigener definierbarer Dynamik.
+## 2. Das Konzept des Exergy Genesis
+Die Welt des Exergy Genesis ist definiert als ein diskretes, abgeschlossenes System, das innerhalb unserer bekannten Realität, die durch drei räumliche Dimensionen und die Zeit als vierte Dimension definiert ist, existiert, jedoch potenziell durch zusätzliche Dimensionen oder unbekannte physikalische Prinzipien abgegrenzt sein könnte. Sie ist nicht bloß ein Gerät, sondern ein autonomes Unter-Universum mit eigener definierbarer Dynamik.
 
 ### 2.1 Energieerzeugung und -transfer
 
