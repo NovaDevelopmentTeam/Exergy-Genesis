@@ -3,7 +3,7 @@ Conceptional Theory Model for the exergy genesis project
 
 # Theorie einer Hyper-Effizienten Mini-Welt zur Energieerzeugung und Entropie-Kompensation
 
-**Autor:** [Dein Name/Pseudonym]
+**Autor:** [Jonas Gries/Nova Dev Team]
 **Datum:** 7. Juni 2025
 **Aktueller Status:** Konzeptuell, theoretisch
 
