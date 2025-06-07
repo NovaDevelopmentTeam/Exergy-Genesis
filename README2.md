@@ -129,4 +129,4 @@ While the ACR and its associated technologies are currently purely conceptual, r
 
 **Disclaimer:** This document outlines a theoretical concept that, as of current scientific understanding, challenges established physical laws. It is presented as a thought experiment for future scientific and engineering exploration.
 
-← Back to [Exergy Genesis](../README.md)
+← Back to [Exergy Genesis](./README.md)
