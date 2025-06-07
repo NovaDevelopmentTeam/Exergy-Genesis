@@ -71,4 +71,4 @@ Although the Exergy-Genesis theory is currently purely conceptual and the necess
 
 **Note:** This is a theoretical concept and currently contradicts the established understanding of physics. It serves as a thought experiment for exploring future possibilities.
 
-Next Topic: [Antimatter Cascade Reactor (ACR)](README2.md)
+Next Topic: [Antimatter Cascade Reactor (ACR)](.\README2.md)
