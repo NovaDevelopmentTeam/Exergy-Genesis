@@ -70,3 +70,5 @@ Obwohl die Exergy-Genesis-Theorie derzeit rein konzeptuell ist und die notwendig
 ---
 
 **Hinweis:** Dies ist ein theoretisches Konzept und widerspricht derzeit dem etablierten Verständnis der Physik. Es dient als Gedankenspiel zur Erforschung zukünftiger Möglichkeiten.
+
+Nächstes Thema: [Antimatter Cascade Reactor (ACR)](README2.md)
